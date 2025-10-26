@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+dist/
+build/
+*.spec
+output/
+*.reqif
+# Allow sample ReqIFs to be versioned
+!examples/sample_reqif/*.reqif
+*.rar
+*.zip
+*.mp4

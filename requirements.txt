@@ -1,0 +1,3 @@
+openpyxl>=3.1.0
+# Optional: faster Excel IO, larger EXE if bundled
+# pandas>=2.0.0
